@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="val">00:00:00</string>
+</resources>
